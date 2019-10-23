@@ -33,7 +33,6 @@ provider:
   credentials: ~/.gcloud/keyfile.json      #Service account key
   stage: dev
   region: us-east-1
-  environment
 
 # The `functions` block defines what code to deploy
 functions:
